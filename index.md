@@ -2,5 +2,6 @@
 
 Thank you for visiting.
 
-My Notebooks:
-[GAMES 101]("https://notes.coldog.pro/games101/") Introduction to Computer Graphics
+### My Notebooks:
+
+[GAMES 101](https://notes.coldog.pro/games101/) Introduction to Computer Graphics
