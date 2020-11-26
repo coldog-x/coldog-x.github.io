@@ -1,5 +1,6 @@
-# Home page for coldog-x
+# Home page for Coldog
 
+github: coldog-x
 Thank you for visiting.
 
 ### My Notebooks:
